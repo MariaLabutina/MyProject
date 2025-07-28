@@ -1,0 +1,46 @@
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Form1.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Properties.Resources.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.exe
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.SizeGlass.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Amount.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Change.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.mdb
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.mdb
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe.config
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.pdb
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Amount.resources
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Change.resources
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Form1.resources
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Properties.Resources.resources
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.SizeGlass.resources
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.exe
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.pdb
+C:\Users\Елена\Downloads\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.ClickForm.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.mdb
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Amount.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Change.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.ClickForm.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Form1.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Properties.Resources.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.SizeGlass.resources
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.exe
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\CoffeeHouse\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.Pay.resources
