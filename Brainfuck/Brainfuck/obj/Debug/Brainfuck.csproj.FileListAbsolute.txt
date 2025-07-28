@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\bin\Debug\Brainfuck.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\bin\Debug\Brainfuck.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\bin\Debug\Brainfuck.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\obj\Debug\Brainfuck.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\obj\Debug\Brainfuck.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\obj\Debug\Brainfuck.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Brainfuck\Brainfuck\obj\Debug\Brainfuck.pdb
