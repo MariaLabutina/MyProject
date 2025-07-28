@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\Chip8.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\Chip8.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\Chip8.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.Graphics.dll
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.System.dll
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.Window.dll
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.Graphics.xml
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.System.xml
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\x64\Debug\SFML.Window.xml
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\x64\Debug\Chip8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\x64\Debug\Chip8.csproj.CopyComplete
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\x64\Debug\Chip8.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\x64\Debug\Chip8.pdb

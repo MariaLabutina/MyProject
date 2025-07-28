@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\Debug\Chip8.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\Debug\Chip8.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\bin\Debug\Chip8.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\Debug\Chip8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\Debug\Chip8.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Chip8\Chip8\obj\Debug\Chip8.pdb
