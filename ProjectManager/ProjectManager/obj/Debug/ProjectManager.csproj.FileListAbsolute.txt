@@ -1,0 +1,52 @@
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.AddATask.resources
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.GanttChart.resources
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ChangeATask.resources
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe.config
+C:\Users\User\source\repos\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.AddATask.resources
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ChangeATask.resources
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.GanttChart.resources
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.CopyComplete
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\User\Desktop\жизнь\программист новичек\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
