@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Coursework\Coursework\obj\Debug\Coursework.Palette.resources
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.Palette.resources
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Coursework\Coursework\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+C:\Users\User\Desktop\Coursework\Coursework\obj\Debug\Coursework.CreatingANewCanvas.resources
