@@ -1,0 +1,10 @@
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\bin\Debug\TheGenerals.exe.config
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\bin\Debug\TheGenerals.exe
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\bin\Debug\TheGenerals.pdb
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.csproj.AssemblyReference.cache
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.Form1.resources
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.Properties.Resources.resources
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.csproj.GenerateResource.cache
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.csproj.CoreCompileInputs.cache
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.exe
+C:\Users\Марибель Сайфер\Desktop\Жизнь\Проги\C#\TheGenerals\TheGenerals\obj\Debug\TheGenerals.pdb
