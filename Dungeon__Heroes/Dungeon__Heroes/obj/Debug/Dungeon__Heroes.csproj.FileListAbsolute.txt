@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\bin\Debug\Dungeon__Heroes.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\bin\Debug\Dungeon__Heroes.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\bin\Debug\Dungeon__Heroes.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\obj\Debug\Dungeon__Heroes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\obj\Debug\Dungeon__Heroes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\obj\Debug\Dungeon__Heroes.exe
+C:\Users\User\Desktop\жизнь\программист новичек\Dungeon__Heroes\Dungeon__Heroes\obj\Debug\Dungeon__Heroes.pdb
