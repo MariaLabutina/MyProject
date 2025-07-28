@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\bin\Debug\GamePreparingForTheNewYear.exe.config
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\bin\Debug\GamePreparingForTheNewYear.exe
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\bin\Debug\GamePreparingForTheNewYear.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.Form1.resources
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.Properties.Resources.resources
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.Work.resources
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.csproj.GenerateResource.cache
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.exe
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.pdb
+C:\Users\User\Desktop\жизнь\программист новичек\GamePreparingForTheNewYear\GamePreparingForTheNewYear\obj\Debug\GamePreparingForTheNewYear.House.resources
