@@ -1,0 +1,96 @@
+[gd_scene load_steps=6 format=3 uid="uid://5thx4bhmiomo"]
+
+[ext_resource type="Script" path="res://game6/game_6.gd" id="1_2yel6"]
+[ext_resource type="PackedScene" uid="uid://cya8tdk3metyd" path="res://cone/cone.tscn" id="1_6pxxi"]
+[ext_resource type="Texture2D" uid="uid://bgrumoxkqgyyg" path="res://Undo-Transparent-Background.png" id="3_lk4s2"]
+[ext_resource type="Texture2D" uid="uid://5l3hwinkfbuc" path="res://refresh.svg" id="4_dhjdp"]
+[ext_resource type="Texture2D" uid="uid://dp12le5061li4" path="res://иконка совет.png" id="5_ewq8w"]
+
+[node name="Game6" type="Node2D"]
+script = ExtResource("1_2yel6")
+
+[node name="Cone" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(102, 315)
+
+[node name="Cone2" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(190, 315)
+
+[node name="Cone3" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(277, 315)
+
+[node name="Cone4" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(365, 315)
+
+[node name="Cone5" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(102, 555)
+
+[node name="Cone6" parent="." instance=ExtResource("1_6pxxi")]
+position = Vector2(190, 555)
+
+[node name="Cone7" parent="." instance=ExtResource("1_6pxxi")]
+visible = false
+position = Vector2(280, 555)
+
+[node name="Label" type="Label" parent="."]
+visible = false
+offset_left = 133.0
+offset_top = 80.0
+offset_right = 344.0
+offset_bottom = 122.0
+theme_override_font_sizes/font_size = 30
+text = "Вы победили!"
+
+[node name="ButtonUndo" type="Button" parent="."]
+offset_left = 7.0
+offset_top = 6.0
+offset_right = 80.0
+offset_bottom = 71.0
+theme_override_font_sizes/font_size = 25
+
+[node name="Sprite2D" type="Sprite2D" parent="ButtonUndo"]
+position = Vector2(33.5, 34)
+scale = Vector2(0.0642857, 0.0608696)
+texture = ExtResource("3_lk4s2")
+
+[node name="ButtonHint" type="Button" parent="."]
+offset_left = 370.0
+offset_top = 6.0
+offset_right = 445.0
+offset_bottom = 72.0
+
+[node name="Sprite2D" type="Sprite2D" parent="ButtonHint"]
+position = Vector2(37.5, 33)
+scale = Vector2(0.09375, 0.085)
+texture = ExtResource("4_dhjdp")
+
+[node name="Button3" type="Button" parent="."]
+offset_left = 380.0
+offset_top = 727.0
+offset_right = 439.0
+offset_bottom = 788.0
+
+[node name="Sprite2D" type="Sprite2D" parent="Button3"]
+position = Vector2(29, 30)
+scale = Vector2(0.0787879, 0.0721428)
+texture = ExtResource("5_ewq8w")
+
+[node name="ButtonMix" type="Button" parent="."]
+visible = false
+offset_left = 131.0
+offset_top = 407.0
+offset_right = 334.0
+offset_bottom = 457.0
+theme_override_font_sizes/font_size = 30
+text = "Перемешать"
+
+[connection signal="on_click" from="Cone" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone2" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone3" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone4" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone5" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone6" to="." method="_on_cone_on_click"]
+[connection signal="on_click" from="Cone7" to="." method="_on_cone_on_click"]
+[connection signal="pressed" from="ButtonUndo" to="." method="_on_button_undo_pressed"]
+[connection signal="pressed" from="ButtonHint" to="." method="_on_button_hint_pressed"]
+[connection signal="pressed" from="Button3" to="." method="_on_button_3_pressed"]
+[connection signal="pressed" from="ButtonMix" to="." method="_on_button_mix_pressed"]
